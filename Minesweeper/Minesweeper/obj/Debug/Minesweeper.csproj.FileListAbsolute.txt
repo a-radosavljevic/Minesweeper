@@ -1,0 +1,24 @@
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\bin\Debug\Podaci.dll
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\bin\Debug\Podaci.pdb
+c:\users\toshiba satellite\documents\visual studio 2013\Projects\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+D:\Projekti\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Projekti\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Projekti\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Projekti\Minesweeper\Minesweeper\bin\Debug\Podaci.dll
+D:\Projekti\Minesweeper\Minesweeper\bin\Debug\Podaci.pdb
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Projekti\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
